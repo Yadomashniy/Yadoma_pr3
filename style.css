@@ -48,7 +48,6 @@ header {
   }
   
   .main__scroll-text {
-    font-family: "TT Lakes";
     color: #7e7e82;
     border: 1px solid #41f6d7;
     background: none;
@@ -58,13 +57,11 @@ header {
   }
   
   .info{
-    font-family: "TT Lakes";
     padding: 0 15px;
     margin: 15px 0;
   }
   
   .read-more{
-    font-family: "TT Lakes";
     font-weight: 600;
     display: flex;
     align-items: center;
